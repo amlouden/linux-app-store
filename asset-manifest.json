@@ -1,13 +1,13 @@
 {
   "main.css": "/linux-app-store/static/css/main.f55b295f.chunk.css",
-  "main.js": "/linux-app-store/static/js/main.0e237293.chunk.js",
-  "main.js.map": "/linux-app-store/static/js/main.0e237293.chunk.js.map",
+  "main.js": "/linux-app-store/static/js/main.d9c9f37d.chunk.js",
+  "main.js.map": "/linux-app-store/static/js/main.d9c9f37d.chunk.js.map",
   "runtime~main.js": "/linux-app-store/static/js/runtime~main.d0b357b3.js",
   "runtime~main.js.map": "/linux-app-store/static/js/runtime~main.d0b357b3.js.map",
-  "static/js/2.65a3ee37.chunk.js": "/linux-app-store/static/js/2.65a3ee37.chunk.js",
-  "static/js/2.65a3ee37.chunk.js.map": "/linux-app-store/static/js/2.65a3ee37.chunk.js.map",
+  "static/js/2.81fbc063.chunk.js": "/linux-app-store/static/js/2.81fbc063.chunk.js",
+  "static/js/2.81fbc063.chunk.js.map": "/linux-app-store/static/js/2.81fbc063.chunk.js.map",
   "index.html": "/linux-app-store/index.html",
-  "precache-manifest.b19bd4ac3056a3e961ed752db1e2e6ce.js": "/linux-app-store/precache-manifest.b19bd4ac3056a3e961ed752db1e2e6ce.js",
+  "precache-manifest.c4e0c2b7adf862d9e392d5d6dcb2eb01.js": "/linux-app-store/precache-manifest.c4e0c2b7adf862d9e392d5d6dcb2eb01.js",
   "service-worker.js": "/linux-app-store/service-worker.js",
   "static/css/main.f55b295f.chunk.css.map": "/linux-app-store/static/css/main.f55b295f.chunk.css.map"
 }
